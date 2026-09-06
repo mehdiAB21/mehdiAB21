@@ -15,6 +15,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Embedded
+![Static Badge](https://img.shields.io/badge/espressif-%23E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Static Badge](https://img.shields.io/badge/robot-00B0D8?style=for-the-badge&logo=probot&logoColor=white)
+
 _____
 
 ### 🌐📞Social Media:
