@@ -17,6 +17,9 @@
 ## Embedded
 ![Static Badge](https://img.shields.io/badge/espressif-%23E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/robot-00B0D8?style=for-the-badge&logo=probot&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C_language-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%2B%2B_language-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 _____
 
